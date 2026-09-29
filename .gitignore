@@ -16,8 +16,6 @@
 **.DS_Store**
 **/__pycache__/**
 **.swp
-.vscode/
-.env
 .log
 *.pid
 *.ipynb*
@@ -35,3 +33,5 @@ lightx2v_ros/install
 lightx2v_ros/log
 .gitnexus
 lightx2v_kernel_xpu/_cmake_build
+config.bat
+node_modules
